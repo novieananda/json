@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "Novie ananda",
+    "nim": "17.01.4052",
+    "userId": 1
+  }
+}
